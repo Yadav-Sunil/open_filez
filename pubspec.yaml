@@ -1,6 +1,6 @@
 name: open_filez
 description: A plug-in that can call native APP to open files with string result in flutter, support iOS(UTI) / android(intent) / PC(ffi) / web(dart:html)
-version: 4.1.2
+version: 4.1.3
 homepage: https://github.com/Yadav-Sunil/open_filez
 
 dependencies:

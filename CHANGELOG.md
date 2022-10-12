@@ -1,3 +1,6 @@
+## 4.1.3
+* Some changes
+
 ## 4.1.2
 * Remove dangerous permission `REQUEST_INSTALL_PACKAGES` in Android
 * Remove Any required code of use this permission
