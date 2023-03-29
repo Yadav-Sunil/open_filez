@@ -15,7 +15,7 @@ dependencies:
 ```dart
 import 'package:open_filez/open_filez.dart';
 
-OpenFilex.open("/sdcard/example.txt");
+OpenFilez.open("/sdcard/example.txt");
 ```
 
 ## Support

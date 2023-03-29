@@ -1,3 +1,8 @@
+## 4.1.5
+* Update ffi version ffi ^1.0.0 > ffi ^2.0.1
+## 4.1.4
+* Rename function name
+
 ## 4.1.3
 * Some changes
 

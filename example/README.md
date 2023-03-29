@@ -10,7 +10,7 @@ To use this plugin, add [open_filez](https://pub.dev/packages/open_filez/install
 ```
 import 'package:open_filez/open_filez.dart';
 
-OpenFilex.open("/sdcard/text.txt");
+OpenFilez.open("/sdcard/text.txt");
 ```
 
 ## Support

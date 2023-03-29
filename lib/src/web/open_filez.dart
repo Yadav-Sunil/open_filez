@@ -4,7 +4,7 @@ import 'package:open_filez/src/common/open_result.dart';
 
 import 'web.dart' as web;
 
-/// OpenFilex class
+/// OpenFilez class
 class OpenFilez {
   OpenFilez._();
 

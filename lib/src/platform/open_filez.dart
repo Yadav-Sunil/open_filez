@@ -9,7 +9,7 @@ import 'linux.dart' as linux;
 import 'macos.dart' as mac;
 import 'windows.dart' as windows;
 
-/// OpenFilex class
+/// OpenFilez class
 class OpenFilez {
   static const MethodChannel _channel = MethodChannel('open_file');
 
